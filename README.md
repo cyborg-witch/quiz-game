@@ -1,6 +1,6 @@
 Quiz game
 
-I build this application as aprt of my learning of React course(by Scrimba).
+I build this application as part of my learning of React course(by Scrimba).
 
 Quiz build with HTML, CSS, JavaScript.
 
